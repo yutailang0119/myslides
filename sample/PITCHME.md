@@ -1,7 +1,7 @@
 ### sample slide
 
 
-This directory's slides is a smaple.
+This directory's slides is a sample.
 
 
 ---
